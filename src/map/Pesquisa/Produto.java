@@ -1,4 +1,4 @@
-package Pesquisa;
+package map.Pesquisa;
 
 public class Produto {
     //atributos
