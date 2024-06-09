@@ -17,6 +17,9 @@ public class Produto implements Comparable<Produto> {
         this.quantidade = quantidade;
     }
 
+    public Produto(String nome, double preco, int quantidade) {
+    }
+
     @Override
     public int compareTo(Produto p) {
         return nome.compareToIgnoreCase(p.getNome());
