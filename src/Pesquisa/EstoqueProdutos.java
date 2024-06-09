@@ -1,4 +1,4 @@
-package map.Pesquisa;
+package Pesquisa;
 
 import set.ordenacao.Produto;
 
